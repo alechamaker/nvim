@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.editor.mini-diff",
+    "lazyvim.plugins.extras.util.gitui"
+  ],
+  "news": {
+    "NEWS.md": "6520"
+  },
+  "version": 6
+}
